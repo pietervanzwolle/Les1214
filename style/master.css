@@ -45,10 +45,15 @@ th {
 }
 
 td {
-  font-weight: bold;  
+  font-size: 28px;
+  font-weight: bold; 
   color: darkred;  
   width: 175px;
   height: 175px;
+}
+
+#td1, #td3 {
+  width: 200px;
 }
 
 #td2 {background-color: #8597af;}
@@ -68,10 +73,6 @@ td {
 #td11 {background-color: #ffcc33;}
 #td13 {background-color: #ffaa00;}
 #td15 {background-color: #ffeeaa;}
-
-#td1, #td3 {
-  width: 200px;
-}
 
 /*
 #td1, #td13, #td11 {
